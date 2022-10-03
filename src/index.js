@@ -1,3 +1,5 @@
-export default function HelloWorld(){
+function HelloWorld(){
     <p>Hello Dünya</p>
 }
+
+module.exports = HelloWorld
