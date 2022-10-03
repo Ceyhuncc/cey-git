@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "cey-git": "^1.0.0",
     "date-picker": "^0.5.0",
     "react-zoomable-image": "^1.0.5"
   },
   "name": "cey-git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
