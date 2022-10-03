@@ -1,3 +1,3 @@
-const sayHelloWorld = () =>{
-    <p>Hello World</p>
+export default function HelloWorld(){
+    <p>Hello Dünya</p>
 }
