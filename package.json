@@ -4,7 +4,7 @@
     "react-zoomable-image": "^1.0.5"
   },
   "name": "cey-git",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Ceyhuncc/cey-git.git"
+  },
+  "bin" : {
+    "helloworld" : "./index.js"
+
   },
   "author": "",
   "license": "ISC",
